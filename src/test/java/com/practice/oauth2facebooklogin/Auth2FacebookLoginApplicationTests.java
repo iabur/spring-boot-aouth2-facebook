@@ -1,4 +1,4 @@
-package com.practice.auth2facebooklogin;
+package com.practice.oauth2facebooklogin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
